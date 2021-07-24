@@ -1,0 +1,14 @@
+C:\Users\u\source\repos\CopsNRobbers\obj\Debug\CopsNRobbers.Project.Forms.MenuScreen_Form.resources
+C:\Users\u\source\repos\CopsNRobbers\obj\Debug\CopsNRobbers.Project.Forms.WelcomeScreen_Form.resources
+C:\Users\u\source\repos\CopsNRobbers\obj\Debug\CopsNRobbers.Properties.Resources.resources
+C:\Users\u\source\repos\CopsNRobbers\obj\Debug\CopsNRobbers.csproj.GenerateResource.cache
+C:\Users\u\source\repos\CopsNRobbers\obj\Debug\CopsNRobbers.csproj.CoreCompileInputs.cache
+C:\Users\u\source\repos\CopsNRobbers\bin\Debug\CopsNRobbers.exe.config
+C:\Users\u\source\repos\CopsNRobbers\bin\Debug\CopsNRobbers.exe
+C:\Users\u\source\repos\CopsNRobbers\bin\Debug\CopsNRobbers.pdb
+C:\Users\u\source\repos\CopsNRobbers\obj\Debug\CopsNRobbers.exe
+C:\Users\u\source\repos\CopsNRobbers\obj\Debug\CopsNRobbers.pdb
+C:\Users\u\source\repos\CopsNRobbers\obj\Debug\CopsNRobbers.Project.Forms.Game1Screen_Form.resources
+C:\Users\u\source\repos\CopsNRobbers\obj\Debug\CopsNRobbers.Project.Forms.Game2Screen_Form.resources
+C:\Users\u\source\repos\CopsNRobbers\obj\Debug\CopsNRobbers.Project.Forms.GameOverScreen_Form.resources
+C:\Users\u\source\repos\CopsNRobbers\obj\Debug\CopsNRobbers.Project.Forms.WinningScreen_Form.resources
